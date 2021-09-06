@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Web_API_Xamarin_Backend", "Student_Web_API_Xamarin_Backend.csproj", "{4B94F0C0-950D-4448-AE4B-F0D9B7BCA55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B94F0C0-950D-4448-AE4B-F0D9B7BCA55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B94F0C0-950D-4448-AE4B-F0D9B7BCA55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B94F0C0-950D-4448-AE4B-F0D9B7BCA55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B94F0C0-950D-4448-AE4B-F0D9B7BCA55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFA9E46-6574-4D92-8F88-51FCC5E158A3}
+	EndGlobalSection
+EndGlobal
